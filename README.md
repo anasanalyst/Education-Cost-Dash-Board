@@ -15,6 +15,6 @@ This Dash Board can be helpful for students especically when they are looking to
 PYTHON NOTEBOOK
 I used Python for EDA process of the Data. started with finding the Duplicates and removing them as well as if there were any missing values. Columns were Checked if they are in their original Data-types.
 
-TOOLS
+PYTHON TOOLS 
 PYTHON librarires :
 Pandas, NumPY, MatplotLIB and Seaborn were used.
