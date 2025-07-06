@@ -1,3 +1,4 @@
+Education COST Analysis -- PowerBI + PYTHON
 This Project presents a comprehensive Education Cost Dashboard.
 I used Power-BI as the main tool to highlight and show the trends. With this dashboard student can learn about the cost of living when planning to study aborad.
 The insight generated can be easily informative for the students, consultant and anyone who is going to compare education affordability and plan their journey within the budget.
@@ -10,3 +11,10 @@ FEATURES
 .Map visualisation was used to show the location of the countries and 
 
 This Dash Board can be helpful for students especically when they are looking to move abroad for studying and can make decide which Country and University is best for them.
+
+PYTHON NOTEBOOK
+I used Python for EDA process of the Data. started with finding the Duplicates and removing them as well as if there were any missing values. Columns were Checked if they are in their original Data-types.
+
+TOOLS
+PYTHON librarires :
+Pandas, NumPY, MatplotLIB and Seaborn were used.
